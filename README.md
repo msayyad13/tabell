@@ -1,0 +1,2 @@
+# tabell
+læring og eksperimentering
